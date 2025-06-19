@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBuoySparCube as ObiBuoySparCubeElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-buoy-spar-cube.js';
+ import {ObiBuoySparCube as ObiBuoySparCubeElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-buoy-spar-cube.js';
  
  
  

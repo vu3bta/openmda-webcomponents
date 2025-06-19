@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBilge as ObiBilgeElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-bilge.js';
+ import {ObiBilge as ObiBilgeElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-bilge.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcCompass as ObcCompassElement} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/compass/compass.js';
+ import {ObcCompass as ObcCompassElement} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/compass/compass.js';
  
  
  

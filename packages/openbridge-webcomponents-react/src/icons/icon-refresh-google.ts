@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRefreshGoogle as ObiRefreshGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-refresh-google.js';
+ import {ObiRefreshGoogle as ObiRefreshGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-refresh-google.js';
  
  
  

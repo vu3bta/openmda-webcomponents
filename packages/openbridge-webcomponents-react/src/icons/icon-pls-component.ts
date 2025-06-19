@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPlsComponent as ObiPlsComponentElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-pls-component.js';
+ import {ObiPlsComponent as ObiPlsComponentElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-pls-component.js';
  
  
  

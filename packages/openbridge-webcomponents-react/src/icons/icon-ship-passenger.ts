@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiShipPassenger as ObiShipPassengerElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ship-passenger.js';
+ import {ObiShipPassenger as ObiShipPassengerElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ship-passenger.js';
  
  
  

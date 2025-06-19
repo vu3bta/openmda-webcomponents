@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartScaleMinProposal as ObiChartScaleMinProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-scale-min-proposal.js';
+ import {ObiChartScaleMinProposal as ObiChartScaleMinProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-scale-min-proposal.js';
  
  
  

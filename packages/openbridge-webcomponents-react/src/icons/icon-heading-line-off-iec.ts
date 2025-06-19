@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiHeadingLineOffIec as ObiHeadingLineOffIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-heading-line-off-iec.js';
+ import {ObiHeadingLineOffIec as ObiHeadingLineOffIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-heading-line-off-iec.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartSandbanks as ObiChartSandbanksElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-sandbanks.js';
+ import {ObiChartSandbanks as ObiChartSandbanksElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-sandbanks.js';
  
  
  

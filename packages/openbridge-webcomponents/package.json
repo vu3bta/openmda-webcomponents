@@ -1,6 +1,6 @@
 {
-  "name": "@oicl/openbridge-webcomponents",
-  "version": "0.0.17",
+  "name": "@vu3bta/openbridge-webcomponents",
+  "version": "0.0.18",
   "type": "module",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "license": "Apache-2.0",
   "scripts": {
-    "build": "yarn run build:translations && yarn run typecheck && yarn run build:ts && yarn run analyze && yarn run build:wrappers",
+    "build": "npm run build:translations && npm run typecheck && npm run build:ts && npm run analyze && npm run build:wrappers",
     "build:ts": "vite build",
     "build:ts:watch": "vite build --watch",
     "build:translations": "lit localize build",
@@ -21,10 +21,10 @@
     "download:icons": "tsx ./script/download-icons.ts",
     "new:component": "tsx ./new-component.ts",
     "test-storybook": "test-storybook",
-    "prepack": "yarn build",
+    "prepack": "npm run build",
     "format": "prettier \"**/*.{cjs,html,js,json,md,ts}\"  --write",
     "format:check": "prettier \"**/*.{cjs,html,js,json,md,ts}\"  --check",
-    "lint": "yarn run lint:lit-analyzer && yarn run lint:eslint",
+    "lint": "npm run lint:lit-analyzer && npm run lint:eslint",
     "lint:eslint": "eslint 'src/**/*.ts'",
     "lint:lit-analyzer": "lit-analyzer",
     "analyze": "cem analyze --litelement --globs \"src/**/*.ts\" --exclude \"src/**/*.stories.ts\"",

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAisAtonMobileVirtualIec as ObiAisAtonMobileVirtualIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ais-aton-mobile-virtual-iec.js';
+ import {ObiAisAtonMobileVirtualIec as ObiAisAtonMobileVirtualIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ais-aton-mobile-virtual-iec.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcLineCross as ObcLineCrossElement} from '@oicl/openbridge-webcomponents/dist/automation/line-cross/line-cross.js';
+ import {ObcLineCross as ObcLineCrossElement} from '@vu3bta/openbridge-webcomponents/dist/automation/line-cross/line-cross.js';
  
  
  

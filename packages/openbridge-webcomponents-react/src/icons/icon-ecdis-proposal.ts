@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiEcdisProposal as ObiEcdisProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ecdis-proposal.js';
+ import {ObiEcdisProposal as ObiEcdisProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ecdis-proposal.js';
  
  
  

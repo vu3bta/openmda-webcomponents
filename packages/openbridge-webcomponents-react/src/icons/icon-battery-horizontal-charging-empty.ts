@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBatteryHorizontalChargingEmpty as ObiBatteryHorizontalChargingEmptyElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-battery-horizontal-charging-empty.js';
+ import {ObiBatteryHorizontalChargingEmpty as ObiBatteryHorizontalChargingEmptyElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-battery-horizontal-charging-empty.js';
  
  
  

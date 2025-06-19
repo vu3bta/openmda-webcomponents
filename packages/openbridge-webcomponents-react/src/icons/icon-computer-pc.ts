@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiComputerPc as ObiComputerPcElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-computer-pc.js';
+ import {ObiComputerPc as ObiComputerPcElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-computer-pc.js';
  
  
  

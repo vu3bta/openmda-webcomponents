@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMotionTrueProposal as ObiMotionTrueProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-motion-true-proposal.js';
+ import {ObiMotionTrueProposal as ObiMotionTrueProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-motion-true-proposal.js';
  
  
  

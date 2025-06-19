@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiThreewayAcuatorPistonClosedLeft as ObiThreewayAcuatorPistonClosedLeftElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-threeway-acuator-piston-closed-left.js';
+ import {ObiThreewayAcuatorPistonClosedLeft as ObiThreewayAcuatorPistonClosedLeftElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-threeway-acuator-piston-closed-left.js';
  
  
  

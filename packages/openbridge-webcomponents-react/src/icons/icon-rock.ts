@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRock as ObiRockElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-rock.js';
+ import {ObiRock as ObiRockElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-rock.js';
  
  
  

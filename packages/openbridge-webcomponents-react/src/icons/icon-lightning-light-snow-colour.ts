@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightningLightSnowColour as ObiLightningLightSnowColourElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-lightning-light-snow-colour.js';
+ import {ObiLightningLightSnowColour as ObiLightningLightSnowColourElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-lightning-light-snow-colour.js';
  
  
  

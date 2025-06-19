@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPiezoelectricCrystalOn as ObiPiezoelectricCrystalOnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-piezoelectric-crystal-on.js';
+ import {ObiPiezoelectricCrystalOn as ObiPiezoelectricCrystalOnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-piezoelectric-crystal-on.js';
  
  
  

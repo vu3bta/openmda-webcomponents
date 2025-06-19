@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiConnectorThreeway as ObiConnectorThreewayElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-connector-threeway.js';
+ import {ObiConnectorThreeway as ObiConnectorThreewayElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-connector-threeway.js';
  
  
  

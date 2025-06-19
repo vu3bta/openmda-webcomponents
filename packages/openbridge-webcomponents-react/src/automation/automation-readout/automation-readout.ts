@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcAutomationReadout as ObcAutomationReadoutElement} from '@oicl/openbridge-webcomponents/dist/automation/automation-readout/automation-readout.js';
+ import {ObcAutomationReadout as ObcAutomationReadoutElement} from '@vu3bta/openbridge-webcomponents/dist/automation/automation-readout/automation-readout.js';
  
  
  

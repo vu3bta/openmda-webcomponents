@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiScreenFullGoogle as ObiScreenFullGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-screen-full-google.js';
+ import {ObiScreenFullGoogle as ObiScreenFullGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-screen-full-google.js';
  
  
  

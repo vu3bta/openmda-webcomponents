@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiArrowDownGoogle as ObiArrowDownGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-arrow-down-google.js';
+ import {ObiArrowDownGoogle as ObiArrowDownGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-arrow-down-google.js';
  
  
  

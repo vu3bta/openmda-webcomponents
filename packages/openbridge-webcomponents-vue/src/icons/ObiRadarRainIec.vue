@@ -2,7 +2,7 @@
     <script setup lang="ts">
       import { h, useSlots, reactive } from "vue";
       import { assignSlotNodes, Slots } from "@lit-labs/vue-utils/wrapper-utils.js";
-      import '@oicl/openbridge-webcomponents/dist/icons/icon-radar-rain-iec.js';
+      import '@vu3bta/openbridge-webcomponents/dist/icons/icon-radar-rain-iec.js';
       
 
       export interface Props {

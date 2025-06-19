@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBackward as ObiBackwardElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-backward.js';
+ import {ObiBackward as ObiBackwardElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-backward.js';
  
  
  

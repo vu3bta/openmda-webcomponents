@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMotionTrueIec as ObiMotionTrueIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-motion-true-iec.js';
+ import {ObiMotionTrueIec as ObiMotionTrueIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-motion-true-iec.js';
  
  
  

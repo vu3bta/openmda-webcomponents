@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSnow as ObiSnowElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-snow.js';
+ import {ObiSnow as ObiSnowElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-snow.js';
  
  
  

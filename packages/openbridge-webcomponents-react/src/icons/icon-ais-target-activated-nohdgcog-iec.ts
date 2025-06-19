@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAisTargetActivatedNohdgcogIec as ObiAisTargetActivatedNohdgcogIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ais-target-activated-nohdgcog-iec.js';
+ import {ObiAisTargetActivatedNohdgcogIec as ObiAisTargetActivatedNohdgcogIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ais-target-activated-nohdgcog-iec.js';
  
  
  

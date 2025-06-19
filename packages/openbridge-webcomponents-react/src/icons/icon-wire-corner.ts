@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiWireCorner as ObiWireCornerElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-wire-corner.js';
+ import {ObiWireCorner as ObiWireCornerElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-wire-corner.js';
  
  
  

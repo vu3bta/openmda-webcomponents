@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcMainEngine as ObcMainEngineElement} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/main-engine/main-engine.js';
+ import {ObcMainEngine as ObcMainEngineElement} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/main-engine/main-engine.js';
  
  
  

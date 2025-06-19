@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAnchorIec as ObiAnchorIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-anchor-iec.js';
+ import {ObiAnchorIec as ObiAnchorIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-anchor-iec.js';
  
  
  

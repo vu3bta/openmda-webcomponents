@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiConningIec as ObiConningIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-conning-iec.js';
+ import {ObiConningIec as ObiConningIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-conning-iec.js';
  
  
  

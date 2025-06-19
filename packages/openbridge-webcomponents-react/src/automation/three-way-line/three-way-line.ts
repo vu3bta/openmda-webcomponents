@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcThreeWayLine as ObcThreeWayLineElement} from '@oicl/openbridge-webcomponents/dist/automation/three-way-line/three-way-line.js';
+ import {ObcThreeWayLine as ObcThreeWayLineElement} from '@vu3bta/openbridge-webcomponents/dist/automation/three-way-line/three-way-line.js';
  
  
  

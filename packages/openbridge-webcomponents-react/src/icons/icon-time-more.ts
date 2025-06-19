@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTimeMore as ObiTimeMoreElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-time-more.js';
+ import {ObiTimeMore as ObiTimeMoreElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-time-more.js';
  
  
  

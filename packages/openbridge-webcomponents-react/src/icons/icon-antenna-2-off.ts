@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAntenna2Off as ObiAntenna2OffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-antenna-2-off.js';
+ import {ObiAntenna2Off as ObiAntenna2OffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-antenna-2-off.js';
  
  
  

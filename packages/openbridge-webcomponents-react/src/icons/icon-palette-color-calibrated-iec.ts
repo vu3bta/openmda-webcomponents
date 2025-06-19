@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPaletteColorCalibratedIec as ObiPaletteColorCalibratedIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-palette-color-calibrated-iec.js';
+ import {ObiPaletteColorCalibratedIec as ObiPaletteColorCalibratedIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-palette-color-calibrated-iec.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiEnergyAmmonia as ObiEnergyAmmoniaElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-energy-ammonia.js';
+ import {ObiEnergyAmmonia as ObiEnergyAmmoniaElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-energy-ammonia.js';
  
  
  

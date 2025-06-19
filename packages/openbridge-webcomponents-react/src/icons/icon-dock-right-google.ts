@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDockRightGoogle as ObiDockRightGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-dock-right-google.js';
+ import {ObiDockRightGoogle as ObiDockRightGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-dock-right-google.js';
  
  
  

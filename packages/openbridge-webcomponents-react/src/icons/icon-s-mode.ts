@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSMode as ObiSModeElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-s-mode.js';
+ import {ObiSMode as ObiSModeElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-s-mode.js';
  
  
  

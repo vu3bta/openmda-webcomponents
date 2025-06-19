@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiConverterDcacOn as ObiConverterDcacOnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-converter-dcac-on.js';
+ import {ObiConverterDcacOn as ObiConverterDcacOnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-converter-dcac-on.js';
  
  
  

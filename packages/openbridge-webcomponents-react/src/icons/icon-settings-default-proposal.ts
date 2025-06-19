@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSettingsDefaultProposal as ObiSettingsDefaultProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-settings-default-proposal.js';
+ import {ObiSettingsDefaultProposal as ObiSettingsDefaultProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-settings-default-proposal.js';
  
  
  

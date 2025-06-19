@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAlarmUnacknowledgedIec as ObiAlarmUnacknowledgedIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-alarm-unacknowledged-iec.js';
+ import {ObiAlarmUnacknowledgedIec as ObiAlarmUnacknowledgedIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-alarm-unacknowledged-iec.js';
  
  
  

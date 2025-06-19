@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBeaconTowerSphere as ObiBeaconTowerSphereElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-beacon-tower-sphere.js';
+ import {ObiBeaconTowerSphere as ObiBeaconTowerSphereElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-beacon-tower-sphere.js';
  
  
  

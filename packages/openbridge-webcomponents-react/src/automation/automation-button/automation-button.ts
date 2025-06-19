@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcAutomationButton as ObcAutomationButtonElement} from '@oicl/openbridge-webcomponents/dist/automation/automation-button/automation-button.js';
+ import {ObcAutomationButton as ObcAutomationButtonElement} from '@vu3bta/openbridge-webcomponents/dist/automation/automation-button/automation-button.js';
  
  
  

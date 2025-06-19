@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRecordEvent as ObiRecordEventElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-record-event.js';
+ import {ObiRecordEvent as ObiRecordEventElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-record-event.js';
  
  
  

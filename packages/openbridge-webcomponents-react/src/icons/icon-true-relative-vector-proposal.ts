@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTrueRelativeVectorProposal as ObiTrueRelativeVectorProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-true-relative-vector-proposal.js';
+ import {ObiTrueRelativeVectorProposal as ObiTrueRelativeVectorProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-true-relative-vector-proposal.js';
  
  
  

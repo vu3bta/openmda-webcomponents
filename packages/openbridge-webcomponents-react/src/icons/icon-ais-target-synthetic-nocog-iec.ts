@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAisTargetSyntheticNocogIec as ObiAisTargetSyntheticNocogIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ais-target-synthetic-nocog-iec.js';
+ import {ObiAisTargetSyntheticNocogIec as ObiAisTargetSyntheticNocogIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ais-target-synthetic-nocog-iec.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMediaPauseGoogle as ObiMediaPauseGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-media-pause-google.js';
+ import {ObiMediaPauseGoogle as ObiMediaPauseGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-media-pause-google.js';
  
  
  

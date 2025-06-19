@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBeaconGeneralDanger as ObiBeaconGeneralDangerElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-beacon-general-danger.js';
+ import {ObiBeaconGeneralDanger as ObiBeaconGeneralDangerElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-beacon-general-danger.js';
  
  
  

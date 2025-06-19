@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSimulation as ObiSimulationElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-simulation.js';
+ import {ObiSimulation as ObiSimulationElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-simulation.js';
  
  
  

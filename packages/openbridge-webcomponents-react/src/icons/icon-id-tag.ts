@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiIdTag as ObiIdTagElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-id-tag.js';
+ import {ObiIdTag as ObiIdTagElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-id-tag.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSources02Off as ObiSources02OffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-sources-02-off.js';
+ import {ObiSources02Off as ObiSources02OffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-sources-02-off.js';
  
  
  

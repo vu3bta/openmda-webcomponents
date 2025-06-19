@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPaletteDayNightIec as ObiPaletteDayNightIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-palette-day-night-iec.js';
+ import {ObiPaletteDayNightIec as ObiPaletteDayNightIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-palette-day-night-iec.js';
  
  
  

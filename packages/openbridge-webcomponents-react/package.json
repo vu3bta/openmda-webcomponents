@@ -1,13 +1,13 @@
 {
-  "name": "@oicl/openbridge-webcomponents-react",
+  "name": "@vu3bta/openbridge-webcomponents-react",
   "type": "module",
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch"
   },
-  "version": "0.0.17",
+  "version": "0.0.18",
   "dependencies": {
-    "@oicl/openbridge-webcomponents": "^0.0.17",
+    "@vu3bta/openbridge-webcomponents": "^0.0.18",
     "@lit/react": "^1.0.0"
   },
   "peerDependencies": {

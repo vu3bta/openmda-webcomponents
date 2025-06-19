@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBeaconMinorStake as ObiBeaconMinorStakeElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-beacon-minor-stake.js';
+ import {ObiBeaconMinorStake as ObiBeaconMinorStakeElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-beacon-minor-stake.js';
  
  
  

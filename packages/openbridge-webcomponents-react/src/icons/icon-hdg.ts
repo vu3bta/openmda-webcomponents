@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiHdg as ObiHdgElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-hdg.js';
+ import {ObiHdg as ObiHdgElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-hdg.js';
  
  
  

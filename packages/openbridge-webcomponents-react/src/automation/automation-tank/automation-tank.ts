@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcAutomationTank as ObcAutomationTankElement} from '@oicl/openbridge-webcomponents/dist/automation/automation-tank/automation-tank.js';
+ import {ObcAutomationTank as ObcAutomationTankElement} from '@vu3bta/openbridge-webcomponents/dist/automation/automation-tank/automation-tank.js';
  
  
  

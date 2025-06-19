@@ -5,13 +5,7 @@ import '../icon-button/icon-button';
 import '../../icons/icon-application-open-google';
 import {classMap} from 'lit/directives/class-map.js';
 
-export enum TooltipVariant {
-  neutral = 'neutral',
-  notification = 'notification',
-  caution = 'caution',
-  warning = 'warning',
-  alarm = 'alarm',
-}
+export type TooltipVariant = 'neutral' | 'notification' | 'caution' | 'warning' | 'alarm';
 
 @customElement('obc-tooltip')
 export class ObcTooltip extends LitElement {

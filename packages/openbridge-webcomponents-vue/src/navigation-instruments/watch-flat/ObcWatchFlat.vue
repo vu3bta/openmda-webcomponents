@@ -1,15 +1,15 @@
 
     <script lang="ts">
-      export type {Tickmark} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/watch-flat/tickmark-flat';
-export type {Label} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/compass-flat/compass-flat';
+      export type {Tickmark} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/watch-flat/tickmark-flat';
+export type {Label} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/compass-flat/compass-flat';
 export type {SVGTemplateResult} from 'lit';
     </script>
     <script setup lang="ts">
       import { h, useSlots, reactive } from "vue";
       import { assignSlotNodes, Slots } from "@lit-labs/vue-utils/wrapper-utils.js";
-      import '@oicl/openbridge-webcomponents/dist/navigation-instruments/watch-flat/watch-flat.js';
-      import {Tickmark} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/watch-flat/tickmark-flat';
-import {Label} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/compass-flat/compass-flat';
+      import '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/watch-flat/watch-flat.js';
+      import {Tickmark} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/watch-flat/tickmark-flat';
+import {Label} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/compass-flat/compass-flat';
 import {SVGTemplateResult} from 'lit';
 
       export interface Props {

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCoordinate as ObiCoordinateElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-coordinate.js';
+ import {ObiCoordinate as ObiCoordinateElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-coordinate.js';
  
  
  

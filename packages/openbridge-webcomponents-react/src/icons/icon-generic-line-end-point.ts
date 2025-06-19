@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiGenericLineEndPoint as ObiGenericLineEndPointElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-generic-line-end-point.js';
+ import {ObiGenericLineEndPoint as ObiGenericLineEndPointElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-generic-line-end-point.js';
  
  
  

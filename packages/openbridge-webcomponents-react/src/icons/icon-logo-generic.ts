@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLogoGeneric as ObiLogoGenericElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-logo-generic.js';
+ import {ObiLogoGeneric as ObiLogoGenericElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-logo-generic.js';
  
  
  

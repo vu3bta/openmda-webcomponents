@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiConspicuousCairn as ObiConspicuousCairnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-conspicuous-cairn.js';
+ import {ObiConspicuousCairn as ObiConspicuousCairnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-conspicuous-cairn.js';
  
  
  

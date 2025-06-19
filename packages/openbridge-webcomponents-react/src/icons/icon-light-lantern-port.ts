@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightLanternPort as ObiLightLanternPortElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-light-lantern-port.js';
+ import {ObiLightLanternPort as ObiLightLanternPortElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-light-lantern-port.js';
  
  
  

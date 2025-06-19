@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiForwardFast as ObiForwardFastElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-forward-fast.js';
+ import {ObiForwardFast as ObiForwardFastElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-forward-fast.js';
  
  
  

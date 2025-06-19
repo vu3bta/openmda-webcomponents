@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAlarmAground as ObiAlarmAgroundElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-alarm-aground.js';
+ import {ObiAlarmAground as ObiAlarmAgroundElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-alarm-aground.js';
  
  
  

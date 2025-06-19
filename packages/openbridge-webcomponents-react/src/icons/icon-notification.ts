@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiNotification as ObiNotificationElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-notification.js';
+ import {ObiNotification as ObiNotificationElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-notification.js';
  
  
  

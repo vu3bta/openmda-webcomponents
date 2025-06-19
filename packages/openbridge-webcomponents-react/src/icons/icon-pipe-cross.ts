@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPipeCross as ObiPipeCrossElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-pipe-cross.js';
+ import {ObiPipeCross as ObiPipeCrossElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-pipe-cross.js';
  
  
  

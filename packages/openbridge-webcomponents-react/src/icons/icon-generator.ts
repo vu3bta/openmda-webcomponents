@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiGenerator as ObiGeneratorElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-generator.js';
+ import {ObiGenerator as ObiGeneratorElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-generator.js';
  
  
  

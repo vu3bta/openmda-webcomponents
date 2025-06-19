@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiFileDownloadGoogle as ObiFileDownloadGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-file-download-google.js';
+ import {ObiFileDownloadGoogle as ObiFileDownloadGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-file-download-google.js';
  
  
  

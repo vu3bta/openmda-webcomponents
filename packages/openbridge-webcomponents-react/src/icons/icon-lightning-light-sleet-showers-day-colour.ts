@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightningLightSleetShowersDayColour as ObiLightningLightSleetShowersDayColourElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-lightning-light-sleet-showers-day-colour.js';
+ import {ObiLightningLightSleetShowersDayColour as ObiLightningLightSleetShowersDayColourElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-lightning-light-sleet-showers-day-colour.js';
  
  
  

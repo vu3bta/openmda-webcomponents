@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDuctThreeway as ObiDuctThreewayElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-duct-threeway.js';
+ import {ObiDuctThreeway as ObiDuctThreewayElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-duct-threeway.js';
  
  
  

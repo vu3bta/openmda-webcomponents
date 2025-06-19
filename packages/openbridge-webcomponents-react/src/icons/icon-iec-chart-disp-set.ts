@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiIecChartDispSet as ObiIecChartDispSetElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-iec-chart-disp-set.js';
+ import {ObiIecChartDispSet as ObiIecChartDispSetElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-iec-chart-disp-set.js';
  
  
  

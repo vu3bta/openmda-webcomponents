@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMessageImportantGoogle as ObiMessageImportantGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-message-important-google.js';
+ import {ObiMessageImportantGoogle as ObiMessageImportantGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-message-important-google.js';
  
  
  

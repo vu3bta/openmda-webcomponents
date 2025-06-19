@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBuoyDefault as ObiBuoyDefaultElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-buoy-default.js';
+ import {ObiBuoyDefault as ObiBuoyDefaultElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-buoy-default.js';
  
  
  

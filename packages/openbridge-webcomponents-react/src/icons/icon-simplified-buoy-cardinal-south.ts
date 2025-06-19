@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSimplifiedBuoyCardinalSouth as ObiSimplifiedBuoyCardinalSouthElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-simplified-buoy-cardinal-south.js';
+ import {ObiSimplifiedBuoyCardinalSouth as ObiSimplifiedBuoyCardinalSouthElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-simplified-buoy-cardinal-south.js';
  
  
  

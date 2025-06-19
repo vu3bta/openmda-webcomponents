@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRank4 as ObiRank4Element} from '@oicl/openbridge-webcomponents/dist/icons/icon-rank-4.js';
+ import {ObiRank4 as ObiRank4Element} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-rank-4.js';
  
  
  

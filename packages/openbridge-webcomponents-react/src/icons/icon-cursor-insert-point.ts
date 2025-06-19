@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCursorInsertPoint as ObiCursorInsertPointElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cursor-insert-point.js';
+ import {ObiCursorInsertPoint as ObiCursorInsertPointElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cursor-insert-point.js';
  
  
  

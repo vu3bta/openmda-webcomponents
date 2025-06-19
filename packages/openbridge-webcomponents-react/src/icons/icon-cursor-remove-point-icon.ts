@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCursorRemovePointIcon as ObiCursorRemovePointIconElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cursor-remove-point-icon.js';
+ import {ObiCursorRemovePointIcon as ObiCursorRemovePointIconElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cursor-remove-point-icon.js';
  
  
  

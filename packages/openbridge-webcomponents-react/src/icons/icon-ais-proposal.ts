@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAisProposal as ObiAisProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ais-proposal.js';
+ import {ObiAisProposal as ObiAisProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ais-proposal.js';
  
  
  

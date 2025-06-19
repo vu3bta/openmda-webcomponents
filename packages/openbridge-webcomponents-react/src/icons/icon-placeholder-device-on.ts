@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPlaceholderDeviceOn as ObiPlaceholderDeviceOnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-placeholder-device-on.js';
+ import {ObiPlaceholderDeviceOn as ObiPlaceholderDeviceOnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-placeholder-device-on.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBuoyBarrelSphere as ObiBuoyBarrelSphereElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-buoy-barrel-sphere.js';
+ import {ObiBuoyBarrelSphere as ObiBuoyBarrelSphereElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-buoy-barrel-sphere.js';
  
  
  

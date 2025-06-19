@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightRoofOff as ObiLightRoofOffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-light-roof-off.js';
+ import {ObiLightRoofOff as ObiLightRoofOffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-light-roof-off.js';
  
  
  

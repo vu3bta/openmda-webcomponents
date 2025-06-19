@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiManualOnly as ObiManualOnlyElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-manual-only.js';
+ import {ObiManualOnly as ObiManualOnlyElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-manual-only.js';
  
  
  

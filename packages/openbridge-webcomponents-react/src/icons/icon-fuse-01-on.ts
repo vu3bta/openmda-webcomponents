@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiFuse01On as ObiFuse01OnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-fuse-01-on.js';
+ import {ObiFuse01On as ObiFuse01OnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-fuse-01-on.js';
  
  
  

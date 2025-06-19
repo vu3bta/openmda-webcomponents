@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDamperHorizontalOnLarge as ObiDamperHorizontalOnLargeElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-damper-horizontal-on-large.js';
+ import {ObiDamperHorizontalOnLarge as ObiDamperHorizontalOnLargeElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-damper-horizontal-on-large.js';
  
  
  

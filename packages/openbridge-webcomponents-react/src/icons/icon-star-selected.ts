@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiStarSelected as ObiStarSelectedElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-star-selected.js';
+ import {ObiStarSelected as ObiStarSelectedElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-star-selected.js';
  
  
  

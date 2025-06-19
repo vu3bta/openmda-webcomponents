@@ -1,5 +1,5 @@
 {
-  "name": "@oicl/openbridge-webcomponents-vue",
+  "name": "@vu3bta/openbridge-webcomponents-vue",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -8,9 +8,9 @@
     "build:declarations": "vue-tsc --declaration --emitDeclarationOnly",
     "preview": "vite preview"
   },
-  "version": "0.0.17",
+  "version": "0.0.18",
   "dependencies": {
-    "@oicl/openbridge-webcomponents": "^0.0.17",
+    "@vu3bta/openbridge-webcomponents": "^0.0.18",
     "vue": "^3.2.41",
     "@lit-labs/vue-utils": "^0.1.0"
   },

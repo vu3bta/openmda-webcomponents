@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiShipBulkcarrier as ObiShipBulkcarrierElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-ship-bulkcarrier.js';
+ import {ObiShipBulkcarrier as ObiShipBulkcarrierElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-ship-bulkcarrier.js';
  
  
  

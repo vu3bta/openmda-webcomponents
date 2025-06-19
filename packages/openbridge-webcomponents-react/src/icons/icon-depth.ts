@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDepth as ObiDepthElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-depth.js';
+ import {ObiDepth as ObiDepthElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-depth.js';
  
  
  

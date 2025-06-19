@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiEpms as ObiEpmsElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-epms.js';
+ import {ObiEpms as ObiEpmsElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-epms.js';
  
  
  

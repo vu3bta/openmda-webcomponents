@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightEmergency as ObiLightEmergencyElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-light-emergency.js';
+ import {ObiLightEmergency as ObiLightEmergencyElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-light-emergency.js';
  
  
  

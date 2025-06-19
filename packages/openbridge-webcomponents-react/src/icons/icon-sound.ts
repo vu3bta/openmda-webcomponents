@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSound as ObiSoundElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-sound.js';
+ import {ObiSound as ObiSoundElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-sound.js';
  
  
  

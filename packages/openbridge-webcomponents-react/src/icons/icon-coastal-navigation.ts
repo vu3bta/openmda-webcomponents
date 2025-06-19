@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCoastalNavigation as ObiCoastalNavigationElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-coastal-navigation.js';
+ import {ObiCoastalNavigation as ObiCoastalNavigationElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-coastal-navigation.js';
  
  
  

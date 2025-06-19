@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLogEditGoogle as ObiLogEditGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-log-edit-google.js';
+ import {ObiLogEditGoogle as ObiLogEditGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-log-edit-google.js';
  
  
  

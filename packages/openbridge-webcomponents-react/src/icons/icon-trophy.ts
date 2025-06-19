@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTrophy as ObiTrophyElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-trophy.js';
+ import {ObiTrophy as ObiTrophyElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-trophy.js';
  
  
  

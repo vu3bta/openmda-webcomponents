@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiSog as ObiSogElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-sog.js';
+ import {ObiSog as ObiSogElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-sog.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiWarningNoackIec as ObiWarningNoackIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-warning-noack-iec.js';
+ import {ObiWarningNoackIec as ObiWarningNoackIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-warning-noack-iec.js';
  
  
  

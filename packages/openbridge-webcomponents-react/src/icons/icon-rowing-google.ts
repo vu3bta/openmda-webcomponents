@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRowingGoogle as ObiRowingGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-rowing-google.js';
+ import {ObiRowingGoogle as ObiRowingGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-rowing-google.js';
  
  
  

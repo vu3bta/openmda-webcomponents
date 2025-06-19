@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRoutePlanProposal as ObiRoutePlanProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-route-plan-proposal.js';
+ import {ObiRoutePlanProposal as ObiRoutePlanProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-route-plan-proposal.js';
  
  
  

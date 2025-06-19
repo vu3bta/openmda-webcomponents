@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiContainer as ObiContainerElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-container.js';
+ import {ObiContainer as ObiContainerElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-container.js';
  
  
  

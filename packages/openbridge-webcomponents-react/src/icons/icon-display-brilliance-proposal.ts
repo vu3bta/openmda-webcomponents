@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDisplayBrillianceProposal as ObiDisplayBrillianceProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-display-brilliance-proposal.js';
+ import {ObiDisplayBrillianceProposal as ObiDisplayBrillianceProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-display-brilliance-proposal.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiContentCopyGoogle as ObiContentCopyGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-content-copy-google.js';
+ import {ObiContentCopyGoogle as ObiContentCopyGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-content-copy-google.js';
  
  
  

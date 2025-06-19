@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChevronDoubleUpGoogle as ObiChevronDoubleUpGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chevron-double-up-google.js';
+ import {ObiChevronDoubleUpGoogle as ObiChevronDoubleUpGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chevron-double-up-google.js';
  
  
  

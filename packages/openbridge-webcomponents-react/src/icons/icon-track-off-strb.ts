@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTrackOffStrb as ObiTrackOffStrbElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-track-off-strb.js';
+ import {ObiTrackOffStrb as ObiTrackOffStrbElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-track-off-strb.js';
  
  
  

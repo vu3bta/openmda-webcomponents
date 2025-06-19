@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLatched as ObiLatchedElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-latched.js';
+ import {ObiLatched as ObiLatchedElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-latched.js';
  
  
  

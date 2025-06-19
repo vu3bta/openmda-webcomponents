@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiScreenSplitBottom as ObiScreenSplitBottomElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-screen-split-bottom.js';
+ import {ObiScreenSplitBottom as ObiScreenSplitBottomElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-screen-split-bottom.js';
  
  
  

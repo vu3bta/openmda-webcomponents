@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiVisibilityOnGoogle as ObiVisibilityOnGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-visibility-on-google.js';
+ import {ObiVisibilityOnGoogle as ObiVisibilityOnGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-visibility-on-google.js';
  
  
  

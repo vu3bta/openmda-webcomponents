@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRot as ObiRotElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-rot.js';
+ import {ObiRot as ObiRotElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-rot.js';
  
  
  

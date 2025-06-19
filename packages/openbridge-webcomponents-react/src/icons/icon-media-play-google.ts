@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMediaPlayGoogle as ObiMediaPlayGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-media-play-google.js';
+ import {ObiMediaPlayGoogle as ObiMediaPlayGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-media-play-google.js';
  
  
  

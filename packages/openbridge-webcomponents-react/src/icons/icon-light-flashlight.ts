@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightFlashlight as ObiLightFlashlightElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-light-flashlight.js';
+ import {ObiLightFlashlight as ObiLightFlashlightElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-light-flashlight.js';
  
  
  

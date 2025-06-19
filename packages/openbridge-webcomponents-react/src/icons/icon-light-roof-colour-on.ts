@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightRoofColourOn as ObiLightRoofColourOnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-light-roof-colour-on.js';
+ import {ObiLightRoofColourOn as ObiLightRoofColourOnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-light-roof-colour-on.js';
  
  
  

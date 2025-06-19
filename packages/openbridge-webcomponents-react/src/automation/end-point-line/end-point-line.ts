@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcEndPointLine as ObcEndPointLineElement} from '@oicl/openbridge-webcomponents/dist/automation/end-point-line/end-point-line.js';
+ import {ObcEndPointLine as ObcEndPointLineElement} from '@vu3bta/openbridge-webcomponents/dist/automation/end-point-line/end-point-line.js';
  
  
  

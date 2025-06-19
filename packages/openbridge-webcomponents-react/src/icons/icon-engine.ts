@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiEngine as ObiEngineElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-engine.js';
+ import {ObiEngine as ObiEngineElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-engine.js';
  
  
  

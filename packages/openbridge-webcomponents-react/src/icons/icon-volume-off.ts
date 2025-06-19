@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiVolumeOff as ObiVolumeOffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-volume-off.js';
+ import {ObiVolumeOff as ObiVolumeOffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-volume-off.js';
  
  
  

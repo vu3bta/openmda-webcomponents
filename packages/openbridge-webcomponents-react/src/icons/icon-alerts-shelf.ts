@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAlertsShelf as ObiAlertsShelfElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-alerts-shelf.js';
+ import {ObiAlertsShelf as ObiAlertsShelfElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-alerts-shelf.js';
  
  
  

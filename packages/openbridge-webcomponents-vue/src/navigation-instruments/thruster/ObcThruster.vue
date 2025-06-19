@@ -1,16 +1,16 @@
 
     <script lang="ts">
-      export type {InstrumentState} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/types';
-export type {LinearAdvice} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/thruster/advice';
-export type {PropellerType} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/thruster/propeller';
+      export type {InstrumentState} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/types';
+export type {LinearAdvice} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/thruster/advice';
+export type {PropellerType} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/thruster/propeller';
     </script>
     <script setup lang="ts">
       import { h, useSlots, reactive } from "vue";
       import { assignSlotNodes, Slots } from "@lit-labs/vue-utils/wrapper-utils.js";
-      import '@oicl/openbridge-webcomponents/dist/navigation-instruments/thruster/thruster.js';
-      import {InstrumentState} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/types';
-import {LinearAdvice} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/thruster/advice';
-import {PropellerType} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/thruster/propeller';
+      import '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/thruster/thruster.js';
+      import {InstrumentState} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/types';
+import {LinearAdvice} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/thruster/advice';
+import {PropellerType} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/thruster/propeller';
 
       export interface Props {
      thrust?: number;

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcRudder as ObcRudderElement} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/rudder/rudder.js';
+ import {ObcRudder as ObcRudderElement} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/rudder/rudder.js';
  
  
  

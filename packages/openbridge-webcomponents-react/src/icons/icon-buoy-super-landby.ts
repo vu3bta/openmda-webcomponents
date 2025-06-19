@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBuoySuperLandby as ObiBuoySuperLandbyElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-buoy-super-landby.js';
+ import {ObiBuoySuperLandby as ObiBuoySuperLandbyElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-buoy-super-landby.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiOn as ObiOnElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-on.js';
+ import {ObiOn as ObiOnElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-on.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiGenericLineDirection as ObiGenericLineDirectionElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-generic-line-direction.js';
+ import {ObiGenericLineDirection as ObiGenericLineDirectionElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-generic-line-direction.js';
  
  
  

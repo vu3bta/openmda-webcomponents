@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiDiodes06Off as ObiDiodes06OffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-diodes-06-off.js';
+ import {ObiDiodes06Off as ObiDiodes06OffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-diodes-06-off.js';
  
  
  

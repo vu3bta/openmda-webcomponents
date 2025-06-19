@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAlertRectified as ObiAlertRectifiedElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-alert-rectified.js';
+ import {ObiAlertRectified as ObiAlertRectifiedElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-alert-rectified.js';
  
  
  

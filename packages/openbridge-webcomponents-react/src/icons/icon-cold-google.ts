@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiColdGoogle as ObiColdGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cold-google.js';
+ import {ObiColdGoogle as ObiColdGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cold-google.js';
  
  
  

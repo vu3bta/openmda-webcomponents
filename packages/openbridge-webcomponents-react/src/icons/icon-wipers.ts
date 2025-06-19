@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiWipers as ObiWipersElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-wipers.js';
+ import {ObiWipers as ObiWipersElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-wipers.js';
  
  
  

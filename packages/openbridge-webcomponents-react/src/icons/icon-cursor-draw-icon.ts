@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCursorDrawIcon as ObiCursorDrawIconElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cursor-draw-icon.js';
+ import {ObiCursorDrawIcon as ObiCursorDrawIconElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cursor-draw-icon.js';
  
  
  

@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTargetAssociatedCameraRadar as ObiTargetAssociatedCameraRadarElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-target-associated-camera-radar.js';
+ import {ObiTargetAssociatedCameraRadar as ObiTargetAssociatedCameraRadarElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-target-associated-camera-radar.js';
  
  
  

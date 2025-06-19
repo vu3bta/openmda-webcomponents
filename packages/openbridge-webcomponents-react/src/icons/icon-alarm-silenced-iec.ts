@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAlarmSilencedIec as ObiAlarmSilencedIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-alarm-silenced-iec.js';
+ import {ObiAlarmSilencedIec as ObiAlarmSilencedIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-alarm-silenced-iec.js';
  
  
  

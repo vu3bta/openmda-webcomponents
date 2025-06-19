@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCellMedium as ObiCellMediumElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cell-medium.js';
+ import {ObiCellMedium as ObiCellMediumElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cell-medium.js';
  
  
  

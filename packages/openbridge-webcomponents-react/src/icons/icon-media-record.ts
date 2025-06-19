@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMediaRecord as ObiMediaRecordElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-media-record.js';
+ import {ObiMediaRecord as ObiMediaRecordElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-media-record.js';
  
  
  

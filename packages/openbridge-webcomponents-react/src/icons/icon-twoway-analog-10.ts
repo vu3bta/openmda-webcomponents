@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTwowayAnalog10 as ObiTwowayAnalog10Element} from '@oicl/openbridge-webcomponents/dist/icons/icon-twoway-analog-10.js';
+ import {ObiTwowayAnalog10 as ObiTwowayAnalog10Element} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-twoway-analog-10.js';
  
  
  

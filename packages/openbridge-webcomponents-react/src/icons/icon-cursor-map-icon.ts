@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiCursorMapIcon as ObiCursorMapIconElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-cursor-map-icon.js';
+ import {ObiCursorMapIcon as ObiCursorMapIconElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-cursor-map-icon.js';
  
  
  

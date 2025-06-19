@@ -1,12 +1,12 @@
 
     <script lang="ts">
-      export type {POIStyle} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/poi-graphic-line/poi-config';
+      export type {POIStyle} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/poi-graphic-line/poi-config';
     </script>
     <script setup lang="ts">
       import { h, useSlots, reactive } from "vue";
       import { assignSlotNodes, Slots } from "@lit-labs/vue-utils/wrapper-utils.js";
-      import '@oicl/openbridge-webcomponents/dist/navigation-instruments/poi-line/poi-line.js';
-      import {POIStyle} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/poi-graphic-line/poi-config';
+      import '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/poi-line/poi-line.js';
+      import {POIStyle} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/poi-graphic-line/poi-config';
 
       export interface Props {
      height?: number;

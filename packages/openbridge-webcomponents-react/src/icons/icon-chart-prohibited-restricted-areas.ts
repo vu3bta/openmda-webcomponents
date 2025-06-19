@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartProhibitedRestrictedAreas as ObiChartProhibitedRestrictedAreasElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-prohibited-restricted-areas.js';
+ import {ObiChartProhibitedRestrictedAreas as ObiChartProhibitedRestrictedAreasElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-prohibited-restricted-areas.js';
  
  
  

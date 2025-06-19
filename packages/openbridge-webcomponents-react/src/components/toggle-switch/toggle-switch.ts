@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent, EventName} from '@lit/react';
  
- import {ObcToggleSwitch as ObcToggleSwitchElement} from '@oicl/openbridge-webcomponents/dist/components/toggle-switch/toggle-switch.js';
+ import {ObcToggleSwitch as ObcToggleSwitchElement} from '@vu3bta/openbridge-webcomponents/dist/components/toggle-switch/toggle-switch.js';
  
  
  

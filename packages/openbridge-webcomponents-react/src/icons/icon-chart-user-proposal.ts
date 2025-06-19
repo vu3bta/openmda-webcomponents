@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartUserProposal as ObiChartUserProposalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-user-proposal.js';
+ import {ObiChartUserProposal as ObiChartUserProposalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-user-proposal.js';
  
  
  

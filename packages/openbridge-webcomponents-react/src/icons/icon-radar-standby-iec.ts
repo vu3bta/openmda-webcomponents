@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiRadarStandbyIec as ObiRadarStandbyIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-radar-standby-iec.js';
+ import {ObiRadarStandbyIec as ObiRadarStandbyIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-radar-standby-iec.js';
  
  
  

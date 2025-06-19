@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiMoored as ObiMooredElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-moored.js';
+ import {ObiMoored as ObiMooredElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-moored.js';
  
  
  

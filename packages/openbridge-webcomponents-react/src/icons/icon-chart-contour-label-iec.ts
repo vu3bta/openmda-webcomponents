@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartContourLabelIec as ObiChartContourLabelIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-contour-label-iec.js';
+ import {ObiChartContourLabelIec as ObiChartContourLabelIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-contour-label-iec.js';
  
  
  

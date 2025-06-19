@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObcPoiLine as ObcPoiLineElement} from '@oicl/openbridge-webcomponents/dist/navigation-instruments/poi-line/poi-line.js';
+ import {ObcPoiLine as ObcPoiLineElement} from '@vu3bta/openbridge-webcomponents/dist/navigation-instruments/poi-line/poi-line.js';
  
  
  

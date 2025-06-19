@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBuoyBarrelFlag as ObiBuoyBarrelFlagElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-buoy-barrel-flag.js';
+ import {ObiBuoyBarrelFlag as ObiBuoyBarrelFlagElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-buoy-barrel-flag.js';
  
  
  

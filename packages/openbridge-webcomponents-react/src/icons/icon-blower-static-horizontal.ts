@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiBlowerStaticHorizontal as ObiBlowerStaticHorizontalElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-blower-static-horizontal.js';
+ import {ObiBlowerStaticHorizontal as ObiBlowerStaticHorizontalElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-blower-static-horizontal.js';
  
  
  

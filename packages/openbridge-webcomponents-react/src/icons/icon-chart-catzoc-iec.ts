@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiChartCatzocIec as ObiChartCatzocIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-chart-catzoc-iec.js';
+ import {ObiChartCatzocIec as ObiChartCatzocIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-chart-catzoc-iec.js';
  
  
  

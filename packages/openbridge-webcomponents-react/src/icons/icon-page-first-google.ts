@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiPageFirstGoogle as ObiPageFirstGoogleElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-page-first-google.js';
+ import {ObiPageFirstGoogle as ObiPageFirstGoogleElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-page-first-google.js';
  
  
  

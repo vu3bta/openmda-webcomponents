@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiFanOff as ObiFanOffElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-fan-off.js';
+ import {ObiFanOff as ObiFanOffElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-fan-off.js';
  
  
  

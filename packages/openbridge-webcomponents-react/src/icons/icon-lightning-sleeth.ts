@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiLightningSleeth as ObiLightningSleethElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-lightning-sleeth.js';
+ import {ObiLightningSleeth as ObiLightningSleethElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-lightning-sleeth.js';
  
  
  

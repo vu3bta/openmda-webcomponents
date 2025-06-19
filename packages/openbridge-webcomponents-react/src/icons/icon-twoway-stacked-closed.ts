@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiTwowayStackedClosed as ObiTwowayStackedClosedElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-twoway-stacked-closed.js';
+ import {ObiTwowayStackedClosed as ObiTwowayStackedClosedElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-twoway-stacked-closed.js';
  
  
  

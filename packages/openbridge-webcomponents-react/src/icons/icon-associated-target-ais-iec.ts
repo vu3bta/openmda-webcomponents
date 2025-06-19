@@ -2,7 +2,7 @@
  import * as React from 'react';
  import {createComponent} from '@lit/react';
  
- import {ObiAssociatedTargetAisIec as ObiAssociatedTargetAisIecElement} from '@oicl/openbridge-webcomponents/dist/icons/icon-associated-target-ais-iec.js';
+ import {ObiAssociatedTargetAisIec as ObiAssociatedTargetAisIecElement} from '@vu3bta/openbridge-webcomponents/dist/icons/icon-associated-target-ais-iec.js';
  
  
  
