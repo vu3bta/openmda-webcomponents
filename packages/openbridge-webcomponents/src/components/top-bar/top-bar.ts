@@ -210,6 +210,7 @@ export class ObcTopBar extends LitElement {
                 <obi-more-vertical-google></obi-more-vertical-google>
               </obc-icon-button>`
             : null}
+          <slot name="avatar"></slot>
         </div>
       </nav>
     `;
