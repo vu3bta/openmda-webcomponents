@@ -1470,3 +1470,6 @@ import './icon-wire-straight';
 import './icon-wire-threeway';
 import './icon-wrench';
 import './icon-yaw';
+import './icon-ais-chevron';
+import './icon-ais-chevron-variant-01';
+import './icon-ais-chevron-variant-02';

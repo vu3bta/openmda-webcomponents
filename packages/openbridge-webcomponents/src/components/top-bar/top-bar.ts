@@ -136,12 +136,17 @@ export class ObcTopBar extends LitElement {
       <style>
         @media (max-width: ${breakpointMoreButton}px) {
           .left-more-button {
-            display: revert !important;
+            display: none !important;
           }
 
           .group.left > * {
             margin-right: 4px;
             margin-left: 4px;
+          }
+
+          .apps-button,
+          .dimming-button {
+            display: inline-flex !important;
           }
         }
 
@@ -163,6 +168,7 @@ export class ObcTopBar extends LitElement {
           }
         }
       </style>
+
       <nav
         class=${classMap({
           wrapper: true,
@@ -200,16 +206,17 @@ export class ObcTopBar extends LitElement {
                 <obi-applications></obi-applications>
               </obc-icon-button>`
             : null}
-          ${!this.inactive
-            ? html`<obc-icon-button
-                class="left-more-button"
-                variant="flat"
-                @click=${this.leftMoreButtonClicked}
-                ?activated=${this.leftMoreButtonActivated}
-              >
-                <obi-more-vertical-google></obi-more-vertical-google>
-              </obc-icon-button>`
-            : null}
+            ${!this.inactive && window.innerWidth > breakpointMoreButton
+              ? html`<obc-icon-button
+                  class="left-more-button"
+                  variant="flat"
+                  @click=${this.leftMoreButtonClicked}
+                  ?activated=${this.leftMoreButtonActivated}
+                >
+                  <obi-more-vertical-google></obi-more-vertical-google>
+                </obc-icon-button>`
+              : null}
+
           <slot name="avatar"></slot>
         </div>
       </nav>
